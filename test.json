@@ -1,0 +1,73 @@
+{
+    "name":"Test",
+    "showOnLockScreen":true,
+    "views":
+    [
+        {
+            "type":"text",
+            "body":"Line A1\nLine A2\nLine A3"
+        },
+        {
+            "type":"text",
+            "body":"Line B1\nLine B2\nLine B3"
+        }
+    ],
+    "families":
+    [
+        {
+            "family":"graphicCircular",
+            "class":"CLKComplicationTemplateGraphicCircularStackText",
+            "line1":"L1",
+            "line2":"L2"
+        },
+        {
+            "family":"circularSmall",
+            "class":"CLKComplicationTemplateCircularSmallStackText",
+            "line1":"L1",
+            "line2":"L2"
+        },
+        {
+            "family":"modularSmall",
+            "class":"CLKComplicationTemplateModularSmallStackText",
+            "line1":"L1",
+            "line2":"L2"
+        },
+        {
+            "family":"modularLarge",
+            "class":"CLKComplicationTemplateModularLargeStandardBody",
+            "header":"Header",
+            "body1":"Body 1",
+            "body2":"Body 2"
+        },
+        {
+            "family":"graphicCorner",
+            "class":"CLKComplicationTemplateGraphicCornerStackText",
+            "innerText":"Inner text",
+            "outerText":"Outer text"
+        },
+        {
+            "family":"graphicBezel",
+            "class":"CLKComplicationTemplateGraphicBezelCircularText",
+            "line1":"L1",
+            "line2":"L2",
+            "text":"Text"
+        },
+        {
+            "family":"utilitarianSmall",
+            "class":"CLKComplicationTemplateUtilitarianSmallFlat",
+            "text":"Text"
+        },
+        {
+            "family":"utilitarianLarge",
+            "class":"CLKComplicationTemplateUtilitarianLargeFlat",
+            "text":"Text"
+        },
+        {
+            "family":"graphicRectangular",
+            "class":"CLKComplicationTemplateGraphicRectangularStandardBody",
+            "header":"Header",
+            "body1":"Body 1",
+            "body2":"Body 2"
+        }
+    ]
+}
