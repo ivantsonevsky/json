@@ -1,1 +1,3 @@
-{"Reading":{"Temperature": 11, "Humidity": 90}}
+{
+  "img": "https://github.com/ivantsonevsky/sat-images/blob/main/sat_UK.png"
+}
