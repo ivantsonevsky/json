@@ -1,1 +1,6 @@
-{"Reading":{"Temperature": 11, "Humidity": 90}}
+{
+  "Reading": {
+    "Temperature": 11,
+    "Humidity": 90
+  }
+}
